@@ -1,4 +1,4 @@
-In this repository you can find the C++ classes used for this project, take into account that these classes are then used in Unreal to create blueprint classes, leaving some of the programming functionality in the blueprints.
+
 
 This is an ongoing project to create a game in which the player controls a pirate crew, both with daily decisions on board and outside of combat. I have a vision of it in which when it is finished it will feature:
 - **Relationships between crewmembers and yourself** - A pirate ship is a crammed space, and all kinds of conficts can erupt. You will gain and loose allies depending on your decisions. Additionally actions in combat will also affect the relationship.
@@ -26,3 +26,5 @@ What exists right now:
   - Complex randomized events (plots, factions, assassinations, nemesis)
   - Improved and more varied orders (hide, search, swim underwater)
   - Combat actions affecting relationships (save unit from enemy, complete orders, overperform in combat)
+
+*NOTE: In this repository you can find the C++ classes used for this project, take into account that these classes are then used in Unreal to create blueprint classes, leaving some of the programming functionality in those blueprints.*
