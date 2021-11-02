@@ -19,6 +19,7 @@ What exists right now:
   
   
  What will exist further down the line:
+  - Assigning crewmembers to battle positions / man equipment pre-combat
   - Complex environment with ship decks, water, etc.
   - Complex randomized events (plots, factions, assassinations, nemesis)
   - Improved and more varied orders (hide, search, swim underwater)
